@@ -87,6 +87,23 @@ Copy a `.menu-item` div in the Menu section and customize:
 3. Fill out the contact form to get in touch
 4. Customize content as needed
 
+## Deploy Your Website
+
+### Option 1: GitHub Pages
+1. Go to your repository Settings
+2. Scroll to "Pages" section
+3. Select "main" branch as source
+4. Your site will be available at your custom domain
+
+### Option 2: Custom Domain
+1. Purchase a domain from a registrar (GoDaddy, Namecheap, etc.)
+2. Point domain to GitHub Pages
+3. Add domain to repository settings
+
+### Option 3: Other Hosting
+- Upload files to any web hosting service
+- Use services like Netlify, Vercel, or Firebase Hosting
+
 ## Browser Compatibility
 
 - Chrome (latest)
